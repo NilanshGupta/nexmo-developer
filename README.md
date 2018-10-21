@@ -61,7 +61,7 @@ You should now be able to see the site on http://localhost:3000/
 
 ### Setting up with Docker
 
-If you don't want to install Ruby & PostgreSQL then you can use docker to sandbox Nexmo Developer into its own containers. After you [Install Docker](https://docs.docker.com/engine/installation/) run the following:
+If you don't want to install Ruby & PostgreSQL then you can use docker to sandbox Nexmo Developer into its own containers. After you [Install Docker](https://docs.docker.com/engine/installation/) run the following git commands:
 
 ```
 $ git clone git@github.com:Nexmo/nexmo-developer.git
